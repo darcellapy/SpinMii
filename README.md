@@ -4,4 +4,4 @@ A made for fun program that literally just renders 37 frames of a mii of your ch
 # this project is no longer developed, so what now?
 you should use <a href="https://limes.pink/spinmii">this</a> instead
 
-this one has better rendering tho lol smh
+my og one has better rendering tho lol smh
